@@ -1,0 +1,1 @@
+ansible-playbook -c paramiko -i step-00/hosts step-00/setup.yml --ask-pass --sudo
